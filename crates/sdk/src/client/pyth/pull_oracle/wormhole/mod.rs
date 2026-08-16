@@ -10,7 +10,7 @@ mod instruction;
 
 /// Wormhole Core Bridge Program Address.
 pub const WORMHOLE_PROGRAM_ID: Pubkey =
-    solana_sdk::pubkey!("HDwcJBJXjL9FpJ7UBsYBtaDjsBUhuLCUYoz3zr8SWWaQ");
+    solana_sdk::pubkey!("HDw2E7P8X1SkCyjvoGsfBGAVUutKcj874bXjHrpVYrVL");
 
 /// The start offset of the VAA bytes.
 pub const VAA_START: u64 = 46;
